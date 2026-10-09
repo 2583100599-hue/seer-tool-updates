@@ -1,0 +1,7 @@
+{
+  "version": "3.0.24",
+  "package_url": "https://github.com/2583100599-hue/seer-tool-updates/releases/latest/download/seer-tool-update.zip",
+  "sha256": "813456ec8b37eb916991c2c8c1dbdcb91742ea74cf7fd998a41e549cc21e3c45",
+  "min_version": "3.0.22",
+  "notes": "v24：基于 v22 代码的普通 HTTPS 直链更新版；修复本地清单引用 HTTPS 包地址和长链接输入框。"
+}
