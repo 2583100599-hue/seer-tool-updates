@@ -1,7 +1,7 @@
 {
-  "version": "3.0.24",
-  "package_url": "https://github.com/2583100599-hue/seer-tool-updates/releases/latest/download/seer-tool-update.zip",
-  "sha256": "813456ec8b37eb916991c2c8c1dbdcb91742ea74cf7fd998a41e549cc21e3c45",
+  "version": "3.0.25",
+  "package_url": "https://github.com/2583100599-hue/seer-tool-updates/releases/download/V25/seer-tool-update.zip",
+  "sha256": "a43f9e39e63c50ca262c0b07e669e6834d6dd6716fc6caf734c28f9fc0846125",
   "min_version": "3.0.22",
-  "notes": "v24：基于 v22 代码的普通 HTTPS 直链更新版；修复本地清单引用 HTTPS 包地址和长链接输入框。"
+  "notes": "1. 新增\"隐私数据外置管理\"：按类别选择 config、workflows、logs、data、backups 导入/导出，适合 U 盘和文件夹迁移。2. 默认内置 GitHub manifest.json 更新源；仍可手动修改。3. 更新下载读取缓冲区扩大并延长连接超时，改善大文件下载稳定性。4. 保留 SHA-256 校验与原有更新安全检查。"
 }
