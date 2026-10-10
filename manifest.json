@@ -1,7 +1,7 @@
 {
-  "version": "3.0.33",
+  "version": "3.0.37",
   "package_url": "https://github.com/2583100599-hue/seer-tool-updates/releases/latest/download/seer-tool-update.zip",
-  "sha256": "1cdbddbb11608d5e9d8ae46eb2cfc04107e1a8e1ffe5a69957aa85644fd7dd6e",
+  "sha256": "755a6e8efaeb8aa996fb5392faf90d8ca7537869b14a708ed1fe3f5b9f37ea11",
   "min_version": "3.0.20",
   "notes": "主页与项目运行方案双向同步修复。"
 }
